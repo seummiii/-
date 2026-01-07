@@ -17,5 +17,7 @@
 - 비수기 요일에 대한 타겟 프로모션 필요성 확인
 
 ## 파일 구성
-- `notebooks/`: 전체 분석 과정이 담긴 Jupyter Notebook
-- `data/`: 분석에 사용된 원본 CSV 데이터
+`피자가게 매출 최적화를 위한 데이터 분석 결론.ipynb`: 전체 분석 과정이 담긴 Jupyter Notebook
+- `orders.csv`: 분석에 사용된 원본 주문 데이터
+- `pizzas.csv`: 피자 메뉴 및 가격 정보
+- `pizza_types.csv`: 피자 카테고리 및 재료 정보
